@@ -1,0 +1,14 @@
+CD		Change the current default directory
+CLR	 	Clear the screen
+DIR		List the contents of directory
+HELP		Display the user manual using the more filter
+QUIT		Quit the shell
+COPY		Copies one or more files to another location
+DEL		Deletes one or more files
+HELP		Provides Help information for commands
+MD		Creates a directory
+RD		Removes a directory
+RENAME		Renames a file
+TYPE		Displays the contents of a text file
+IMPORT		import text file(s) from your computer
+EXPORT		export text file(s) to your computer

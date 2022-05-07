@@ -1,0 +1,14 @@
+Change the current default directory
+Clear the screen
+List the contents of directory
+Display the user manual using the more filter
+Quit the shell
+Copies one or more files to another location
+Deletes one or more files
+Provides Help information for commands
+Creates a directory
+Removes a directory
+Renames a file
+Displays the contents of a text file
+import text file(s) from your computer
+export text file(s) to your computer

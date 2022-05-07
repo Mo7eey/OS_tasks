@@ -1,0 +1,14 @@
+cd
+clr
+dir
+help
+quit
+copy
+del
+help
+md
+rd
+rename
+type
+import
+export
